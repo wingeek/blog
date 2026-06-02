@@ -62,10 +62,3 @@ See the [Cloudflare variant](../blog-cloudflare) for a version that deploys to C
 
 - [All templates](../)
 - [EmDash documentation](https://github.com/emdash-cms/emdash/tree/main/docs)
-
-
-## Issues
-
-### Ingore Passkey
-
-There is a workaround to get around the passkey requirement - http://localhost:4321/_emdash/api/setup/dev-bypass?redirect=/_emdash/admin
